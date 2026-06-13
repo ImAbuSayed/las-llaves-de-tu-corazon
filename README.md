@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/las-llaves-de-tu-corazon/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Las llaves de tu corazón](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/las-llaves-de-tu-corazon/) |
+| **Get License** | [Secure Licensing Rights for Las llaves de tu corazón](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/las-llaves-de-tu-corazon/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú tienes las llaves, no me hagas esperar
+> Ese piquete y el flow que me hace alucinar
+> Solo dime dónde y cuándo, que te paso a buscar
+> En la disco de Madrid nos vamos a conectar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

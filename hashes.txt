@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Las llaves de tu corazón
+
+This log tracks the cryptographic history and versioning for the song **Las llaves de tu corazón** (las-llaves-de-tu-corazon).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:18:14.737078 | `v1` | `ebe2e9292260b3f55e61789fd0e91e44fcf908f69468167206792caef356d941` | `567ba5d39e1b8ead242323a2b37deb0e226d03c3bcba75f462e9786836e7b2a5` | `2026-06-14_las-llaves-de-tu-corazon-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
